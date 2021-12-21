@@ -83,6 +83,10 @@ header {
     /*background-position: center;*/
 }
 
+.grayBG {
+    background-color: rgb(227, 227, 227);
+}
+
 .flex {
     display: flex;
     align-items: center;
@@ -125,6 +129,23 @@ header h1 {
 
 .padding-s {
     padding: 1%;
+}
+
+footer {
+    background-color: #49505F;
+    color: white;
+    margin: 0;
+}
+
+.noStyle {
+    text-decoration: none;
+    color: black;
+}
+
+.lastFooter {
+    background-color: black;
+    color: white;
+    margin: 0;
 }
 
 @media only screen and (max-width: 600px) {
