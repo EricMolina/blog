@@ -137,6 +137,14 @@ footer {
     margin: 0;
 }
 
+footer p {
+    font-size: 0.8rem;
+}
+
+footer h3 {
+    font-size: 1.5rem;
+}
+
 .noStyle {
     text-decoration: none;
     color: black;
